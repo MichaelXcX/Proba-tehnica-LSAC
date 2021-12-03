@@ -1,0 +1,16 @@
+.nav-bg {
+  position: relative;
+  width: 100%;
+  height: auto;
+  padding: 0;
+
+  background-color: transparent !important;
+}
+
+.nav-li {
+  position: relative;
+  border-radius: 30px;
+  margin: 0 1rem;
+  padding: 0.5rem 2rem;
+  cursor: pointer;
+}
